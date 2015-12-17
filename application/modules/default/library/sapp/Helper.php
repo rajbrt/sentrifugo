@@ -998,7 +998,7 @@ class sapp_Helper
 
                                 </div>";
                         $options['subject'] = APPLICATION_NAME.': Login Credentials';
-                        $options['header'] = 'Greetings from Sentrifugo';
+                        $options['header'] = 'Greetings from Bluerace Technologies';
                         $options['toEmail'] = $rowData[4];
                         $options['toName'] = $userfullname;
                         $options['message'] = $text;

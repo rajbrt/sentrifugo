@@ -415,7 +415,7 @@ class Default_UsermanagementController extends Zend_Controller_Action
                    
                     $options['subject'] = APPLICATION_NAME.' login credentials';
                    
-                    $options['header'] = 'Greetings from Sentrifugo';
+                    $options['header'] = 'Greetings from Bluerace Technologies';
                     $options['toEmail'] = $emailaddress;  
                     $options['toName'] = $this->view->emp_name;
                     $options['message'] = $text;
