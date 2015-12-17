@@ -1,6 +1,46 @@
-INSTALL.txt
-LICENSE.txt
-README.txt
-demos/
-extras/documentation
-/*.bak
+.metadata
+.gradle
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+cache.properties
+
+# Eclipse Core
+.project
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# CDT-specific
+.cproject
+
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+
+# PDT-specific
+.buildpath
+
+# sbteclipse plugin
+.target
+
+# TeXlipse plugin
+.texlipse
+
+# PHP QA Builders
+build/
+vendor/
+
+# Temp Folder
+
+src/public/js/fileUpload/samples/basic/temp/58dcb470246fc3288708552ded59b0d17397a45c_1
+src/public/js/fileUpload/samples/basic/temp/2b43cb3fe2bac28d97b725655ca1d41c5616ae47_1
+src/public/pathconfiguration.php
